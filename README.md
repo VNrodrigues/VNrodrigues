@@ -1,10 +1,10 @@
-## Fala, pessoal, me chamo Vinícius, desenvolvedor backend C# + .net!
+## Fala, pessoal, me chamo Vinícius, desenvolvedor backend python!
 
 - 🔭 Atualmente não estou trabalhando, estou em busca da minha primeira oportunidade como desenvolvedor backend!
-- 🖥️ Hoje em dia estou estudando com foco em C# e DotNet.
-- 📚 Tenho conhecimentos em Python, análise de dados, mySQL, SQL Server, Vagrant, Git e Pacote Office.
-- 💡 Gosto de participar de projetos em equipe, como: criação de bots, projetos open-source, entre outros. <!-- 🤔 I’m looking for help with ... - 💬 Ask me about .. - 📫 --> 
-- ⚡ Gosto de aprender sobre tudo e nos meus hobbies, gosto de fazer um pouco de tudo, games, livros, esportes e outras coisas!
+- 🖥️ Hoje em dia estou estudando com foco em django / flask.
+- 📚 Tenho conhecimentos em Python, análise / tratamento / extração de dados, mySQL, SQL Server, Vagrant, Git e Pacote Office.
+- 💡 Gosto de participar de projetos, como: criação de bots, projetos open-source, projetos individuais, entre outros. <!-- 🤔 I’m looking for help with ... - 💬 Ask me about .. - 📫 --> 
+- ⚡ Gosto de aprender sobre tudo e nos meus hobbies, gosto de fazer um pouco de cada coisa, games, livros, esportes e outros!
 
 
 <div align="center">
