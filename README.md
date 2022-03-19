@@ -1,8 +1,8 @@
 ## Fala, pessoal, me chamo Vinícius, desenvolvedor backend python!
 
 - 🔭 Atualmente não estou trabalhando, estou em busca da minha primeira oportunidade como desenvolvedor backend!
-- 🖥️ Hoje em dia estou estudando com foco em django / flask.
-- 📚 Tenho conhecimentos em Python, análise / tratamento / extração de dados, mySQL, SQL Server, Vagrant, Git e Pacote Office.
+- 🖥️ Hoje em dia estou estudando django / flask.
+- 📚 Tenho conhecimentos em Python, análise / tratamento / extração de dados, HTML5, CSS3, Bootstrap, mySQL, SQL Server, Git e Pacote Office.
 - 💡 Gosto de participar de projetos, como: criação de bots, projetos open-source, projetos individuais, entre outros. <!-- 🤔 I’m looking for help with ... - 💬 Ask me about .. - 📫 --> 
 - ⚡ Gosto de aprender sobre tudo e nos meus hobbies, gosto de fazer um pouco de cada coisa, games, livros, esportes e outros!
 
